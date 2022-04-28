@@ -20,6 +20,7 @@ registerBlockType( 'cgb/block-test', {
 	keywords: [
 		__('Brinda'),
 		__('My Custom Block'),
+		__('First'),
 		// __( 'test' ),
 		// __( 'CGB Example' ),
 		// __( 'create-guten-block' ),
